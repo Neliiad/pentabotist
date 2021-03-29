@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
-Sitemap: https://www.pentabotist.ovh/sitemap.xml.gz
 Sitemap: https://www.pentabotist.ovh/sitemap.xml
+Sitemap: https://pentabotist.ovh/sitemap.xml
